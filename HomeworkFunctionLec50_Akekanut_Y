@@ -1,0 +1,15 @@
+def addnumber(x,y):
+    print(x+y)
+addnumber(2,2)
+
+def addnumber(x,y):
+    print(x-y)
+addnumber(2,2)
+
+def addnumber(x,y):
+    print(x*y)
+addnumber(2,2)
+
+def addnumber(x,y):
+    print(x/y)
+addnumber(2,2)
